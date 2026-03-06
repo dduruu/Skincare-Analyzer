@@ -32,7 +32,7 @@ Python-based AI-powered skincare ingredient analyzer
 
     ```
 
-3.  **Add your API Key** to the code where it says `GROQ_API_KEY`.
+3.  **Add your API Key** to the code.
 
 4.  **Run the script** and paste your ingredients:
 
